@@ -1,0 +1,107 @@
+.jumbotron{
+  background-image: url(../images/back.jpg);
+  background-image width: image(): 100%;
+     background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+ <p {
+     font color: white;
+ }
+.containerfluid{
+  background-image: url(../images/dj2.jpg);
+  background-image width: image(): 100%;
+  background height: 50%;
+     background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+.name{
+    padding-top: 50px;
+    text-align: center;
+    text-transform:lowercase;
+    color: white;
+    font-size: 47px;
+    font-family: joti One;
+  }
+
+  .name2{
+      padding-top: 50px;
+      text-align: center;
+      text-transform:lowercase;
+      color: white;
+      font-size: 35px;
+      font-family: joti One;
+    }
+    .name3{
+        padding-top: 50px;
+        text-align: center;
+        text-transform:lowercase;
+        color: white;
+        font-size: 55px;
+        font-family: joti One;
+      }
+      .name4{
+          padding-top: 50px;
+          text-align: center;
+          text-transform:lowercase;
+          color: white;
+          font-size: 55px;
+          font-family: joti One;
+        }
+
+
+  .head{
+    background-image: url("../images/city.jpeg");
+   padding-bottom: 60px;
+   padding-top: 60px;
+   background-position: center;
+   align-items: center;
+   text-align: center;
+   text-transform:uppercase;
+   font-family: fantasy;
+   color: white;
+   font-size: 60px;
+   font-family: Joti One;
+  }
+  .footer {
+      background-image: :url(../images/color equip.png);
+      background-attachment: scroll;
+      background-size: cover;
+      height: 150px;
+      text color: white;
+      width: auto;
+  }
+  .column {
+    float: left;
+    width: 50%;
+    font-size: 70px;
+    font color: auto;
+    border:2px 2px 2px 2px solid black;
+    border padding-left: 2px;
+    border padding-right: 12px;
+}
+.column1 {
+  float: left;
+  width: 50%;
+  font-size: 70px;
+  font color:  white;
+  border:2px 2px 2px 2px solid black;
+  border padding-left: 2px;
+  border padding-right: 2px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
