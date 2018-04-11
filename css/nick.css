@@ -11,10 +11,10 @@
 
 }
  <p {
-     font color: white;
+     font color: cyan;
  }
 .containerfluid{
-  background-image: url(../images/dj2.jpg);
+  background-image: url(../images/night.jpg);
   background-image width: image(): 100%;
   background height: 50%;
      background-repeat: no-repeat;
@@ -30,7 +30,7 @@
     padding-top: 50px;
     text-align: center;
     text-transform:lowercase;
-    color: white;
+    color: cyan;
     font-size: 47px;
     font-family: joti One;
   }
@@ -39,7 +39,7 @@
       padding-top: 50px;
       text-align: center;
       text-transform:lowercase;
-      color: white;
+      color: cyan;
       font-size: 35px;
       font-family: joti One;
     }
@@ -47,7 +47,7 @@
         padding-top: 50px;
         text-align: center;
         text-transform:lowercase;
-        color: white;
+        color: cyan;
         font-size: 55px;
         font-family: joti One;
       }
@@ -55,7 +55,7 @@
           padding-top: 50px;
           text-align: center;
           text-transform:lowercase;
-          color: white;
+          color: cyan;
           font-size: 55px;
           font-family: joti One;
         }
@@ -79,7 +79,7 @@
       background-attachment: scroll;
       background-size: cover;
       height: 150px;
-      text color: white;
+      text color: cyan;
       width: auto;
   }
   .column {
